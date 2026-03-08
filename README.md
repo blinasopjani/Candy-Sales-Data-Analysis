@@ -21,7 +21,7 @@ The goal is to transform raw operational data into a structured format suitable 
 ## Dashboard  Highlights
 - KPIs: Gross Profit 93.44K, Sales 141.78K, Units Sold 39K
 - Filters: Product slicer to explore individual candy performance
-## Charts:
+# Charts:
 - Line chart: Gross Profit by Month
 - Bar chart: Gross Profit by Product
 - Interactive: All visuals update dynamically for detailed analysis
