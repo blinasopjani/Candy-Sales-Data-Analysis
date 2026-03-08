@@ -30,4 +30,5 @@ The goal is to transform raw operational data into a structured format suitable 
 1. Clone the repository
 2. Open the Jupyter notebook to view the data processing steps
 3. Open the Power BI `.pbix` file to explore the interactive dashboard
+<img width="1293" height="722" alt="Candy Sales and Profit Performance Dashboard Screenshot" src="https://github.com/user-attachments/assets/afd6edb9-b059-4f24-930f-c59a563fcbd2" />
 
