@@ -18,12 +18,13 @@ The goal is to transform raw operational data into a structured format suitable 
 3. Export of processed data to a SQL database  
 4. Development of an interactive Power BI dashboard for data visualization
 
-## Dashboard Insights
-The dashboard provides insights into:
-- Sales performance by product
-- Factory performance
-- Sales vs targets
-- Geographic distribution of sales
+## Dashboard  Highlights
+- KPIs: Gross Profit 93.44K, Sales 141.78K, Units Sold 39K
+- Filters: Product slicer to explore individual candy performance
+## Charts:
+- Line chart: Gross Profit by Month
+- Bar chart: Gross Profit by Product
+- Interactive: All visuals update dynamically for detailed analysis
 
 ## How to Use
 1. Clone the repository
